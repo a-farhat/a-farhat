@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ahmad farhat @a-farhat
-- 👀 I’m interested in .net,js,
+- 👀 I’m interested in c#,js,java,sql,css,html
 - 🌱 I’m currently learning react,angular,devops
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me ahmadfarhat@gmail.com
