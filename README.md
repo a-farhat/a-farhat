@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ahmad farhat @a-farhat
-- 👀 I’m interested in c#,js,java,sql,css,html
-- 🌱 I’m currently learning react,angular,devops
+- 👀 I’m interested in core,linux,c#,js,java,sql,css,html,angular,react
+- 🌱 I’m always learning something I do not know
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me ahmadfarhat@gmail.com
 - ✈ I am from lebanon , willing to relocate
